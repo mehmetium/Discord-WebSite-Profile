@@ -6,7 +6,7 @@ header {
   z-index: 1;
   height: 100vh;
   min-height: 850px;
-  background: url(https://cdn.discordapp.com/attachments/942104998400110645/942106081545572443/cover-image_6.png);
+  background: url("https://cdn.discordapp.com/attachments/942104998400110645/942106081545572443/cover-image_6.png");
   background-size: cover;
   background-attachment: fixed;
   pointer-events: none;
